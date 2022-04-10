@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "ab8398d4491418b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57a5e1c00cd7146",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sorting Foundations/_Sorting Overview.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fc548e4521a7311e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d39699411879a570",
+    "type": "split",
+    "children": [
+      {
+        "id": "28be00257306684b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cad09804915eb21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5abfe6c104e82fee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8b79f988ceaf4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2281c288be225e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f126630fb33dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sorting Foundations/_Sorting Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c57a5e1c00cd7146",
+  "lastOpenFiles": [
+    "Sorting Foundations/_Sorting Overview.md",
+    "Sorting Foundations/Pasted image 20211114233536.png",
+    "General Prep Strategy & Schedule.md",
+    "Recursion Foundations/Pasted image 20220409150029.png",
+    "Recursion Foundations/Recursive Mathematical Functions - Factorials for Permutations.md",
+    "Combinations.md",
+    "Design Strategies/Decrease & Conquer.md",
+    "Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
+    "Design Strategies/Brute Force.md",
+    "Design Strategies/Transform & Conquer.md"
+  ]
+}

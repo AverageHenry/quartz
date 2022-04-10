@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "ab8398d4491418b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57a5e1c00cd7146",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fc548e4521a7311e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d39699411879a570",
+    "type": "split",
+    "children": [
+      {
+        "id": "28be00257306684b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cad09804915eb21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5abfe6c104e82fee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8b79f988ceaf4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2281c288be225e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f126630fb33dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c57a5e1c00cd7146",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/Interview Kickstart Notes/Sorting Foundations/_Sorting Overview.md",
+    "content/Interview Kickstart Notes/General Prep Strategy & Schedule.md",
+    "content/Interview Kickstart Notes/Recursion Foundations/Combinations.md",
+    "content/Interview Kickstart Notes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
+    "content/Interview Kickstart Notes/Design Strategies/Brute Force.md",
+    "CODE_OF_CONDUCT.md",
+    "content/Interview Kickstart Notes/Design Strategies/Decrease & Conquer.md",
+    "General Prep Strategy & Schedule.md",
+    "Recursion Foundations/Pasted image 20220409150029.png"
+  ]
+}

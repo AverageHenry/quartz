@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "circular"
+  ],
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Atom"
+}
