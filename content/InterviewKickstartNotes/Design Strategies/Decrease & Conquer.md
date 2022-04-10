@@ -6,6 +6,6 @@
 Example: Solving the last element *i* in an array when the first **n - 1** elements are solved.
 
 
-See examples of [[Selection Sort]] and [[Insertion Sort]].
+See examples of [[content/InterviewKickstartNotes/Sorting Foundations/Sorting Algorithms/Selection Sort]] and [[content/InterviewKickstartNotes/Sorting Foundations/Sorting Algorithms/Insertion Sort]].
 
-![[Pasted image 20211115011812.png]]
+![[content/InterviewKickstartNotes/Sorting Foundations/Pasted image 20211115011812.png]]

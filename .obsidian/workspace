@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Interview Kickstart Notes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
-            "mode": "preview",
+            "file": "content/_index.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/InterviewKickstartNotes/Combinations.md",
             "mode": "preview",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Interview Kickstart Notes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "c57a5e1c00cd7146",
   "lastOpenFiles": [
-    "content/Interview Kickstart Notes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
     "content/_index.md",
-    "content/notes/config.md",
-    "content/Interview Kickstart Notes/Sorting Foundations/_Sorting Overview.md",
-    "content/Interview Kickstart Notes/General Prep Strategy & Schedule.md",
-    "content/Interview Kickstart Notes/Recursion Foundations/Combinations.md",
-    "content/Interview Kickstart Notes/Design Strategies/Brute Force.md",
-    "CODE_OF_CONDUCT.md",
-    "content/Interview Kickstart Notes/Design Strategies/Decrease & Conquer.md",
-    "General Prep Strategy & Schedule.md"
+    "content/InterviewKickstartNotes/Combinations.md",
+    "content/InterviewKickstartNotes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
+    "InterviewKickstartNotes/Combinations.md",
+    "IInterviewKickstartNotes/Combinations.md",
+    "Interview.md",
+    "content/notes/philosophy.md",
+    "notes.md",
+    "content/Interview.md",
+    "content/notes/config.md"
   ]
 }
