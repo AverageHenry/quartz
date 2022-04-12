@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/InterviewKickstartNotes/Recursion Lecture Notes/Recursion Notes.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/InterviewKickstartNotes/Combinations.md",
+            "file": "content/InterviewKickstartNotes/Recursion Lecture Notes/Recursion Notes.md",
             "mode": "preview",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/InterviewKickstartNotes/Recursion Lecture Notes/Recursion Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c57a5e1c00cd7146",
+  "active": "fc548e4521a7311e",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/InterviewKickstartNotes/Combinations.md",
-    "content/InterviewKickstartNotes/Recursion Foundations/Recursion as a Lazy Manager's Strategy.md",
-    "InterviewKickstartNotes/Combinations.md",
-    "IInterviewKickstartNotes/Combinations.md",
-    "Interview.md",
-    "content/notes/philosophy.md",
-    "notes.md",
-    "content/Interview.md",
-    "content/notes/config.md"
+    "content/InterviewKickstartNotes/Recursion Lecture Notes/Recursion Notes.md",
+    "content/InterviewKickstartNotes/Recursion Foundations/Printing Subsets.md",
+    "content/InterviewKickstartNotes/Recursion Foundations/Printing All Permutations.md",
+    "content/InterviewKickstartNotes/Sorting Foundations/Pasted image 20211114233536.png",
+    "content/InterviewKickstartNotes/Recursion Foundations/Combinatorial Enumeration Binary Strings.md",
+    "screenshot.png",
+    "content/InterviewKickstartNotes/Recursion Foundations/Images/Pasted image 20220410150210.png",
+    "content/InterviewKickstartNotes/Recursion Foundations/Images/Pasted image 20220410143338.png",
+    "content/InterviewKickstartNotes/Recursion Foundations/Images/Pasted image 20220409150029.png",
+    "content/InterviewKickstartNotes/General Prep Strategy & Schedule.md"
   ]
 }

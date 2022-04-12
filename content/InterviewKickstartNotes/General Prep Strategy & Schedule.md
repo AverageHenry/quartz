@@ -9,6 +9,10 @@
 
 Each unit should take 7 days or less to complete. Any extra days left over will go towards practice or supplemental lectures.
 
+Once I'm finished with the curriculum, I will move over to [Neetcode's Top 150](https://neetcode.io/) (Blind Top 75 already included in this list.)
+
+After that, I will do top Google questions on Leetcode.
+
 ---
 
 ### Foundations

@@ -13,7 +13,7 @@ Then use the same decomposition technique to divide the subproblems into new one
 
 Reassemble the solved components to obtain the complete solution to the original problem.
 
-![[content/InterviewKickstartNotes/Recursion Foundations/Pasted image 20220409150029.png]]
+![[content/InterviewKickstartNotes/Recursion Foundations/Images/Pasted image 20220409150029.png]]
 
 ### Question: How many subsets of a set of size n are there?
 - There are 2<sup>n</sup> subsets.
