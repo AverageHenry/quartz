@@ -48,4 +48,38 @@ Write up a general strategy used by any arbitrary worker in the heirarchy as a r
 This is what the general template will look like in code:
 
 ```python
+def helper(partial_solution, subproblem_definition): # partial_solution is a "slate"
+	# Base Case: Leaf Worker
+	if subproblem_definition is empty:
+		# Partial solution is a complete P/C
+		Add the complete solution to the "global bag"
+		return
+	# Recursive Case: Interal Node Workers
+	else:
+		# Let c1, c2, c3... ck be the number of choices for filling into the leftmost blank
+		For each of those choices ci:
+			Add ci to the slate (append)
+			helper(enlarged_slate, smaller_subproblem)
+			
+def overall(a_set_of_n_objects):
+	result = []
+	helper(blank_slate, complete_problem_of_size_n)
+	return result
 ```
+
+### Question 1: Letter Case Permutation ([[www.google.com|Leetcode #784]])
+![[Pasted image 20220412000103.png]]
+
+##### Here is the solution using a mutable slate:
+
+![[content/InterviewKickstartNotes/Recursion Lecture Notes/letter_case_permutations.png]]
+
+##### Time Complexity: O (2<sup>n</sup> x n)
+##### Space Complexity: **O (n)**  
+
+### Question 2: Subsets - No Duplicates
+![[Pasted image 20220412010727.png]]
+![[content/InterviewKickstartNotes/Recursion Lecture Notes/generate_all_subsets.png]]
+### Question 3: Permutations
+![[Pasted image 20220412110645.png]]
+![[content/InterviewKickstartNotes/Recursion Lecture Notes/permutations_no_repetitions.png]]

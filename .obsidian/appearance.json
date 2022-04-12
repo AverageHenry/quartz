@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "circular"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Atom"
 }
