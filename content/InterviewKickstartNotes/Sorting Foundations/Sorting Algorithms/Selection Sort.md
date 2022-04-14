@@ -1,1 +1,0 @@
-![[content/InterviewKickstartNotes/Sorting Foundations/selection_sort.png]]

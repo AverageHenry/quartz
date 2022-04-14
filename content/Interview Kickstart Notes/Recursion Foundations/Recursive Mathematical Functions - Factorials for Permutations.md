@@ -19,7 +19,7 @@
 	* How about the number of 4-digit passcodes that are possible?
 		* 10 x 10 x 10 x 10 = 10<sup>4</sup>
 
-### Calculating the value of n! using [[content/InterviewKickstartNotes/Design Strategies/Decrease & Conquer]]
+### Calculating the value of n! using [[content/Interview Kickstart Notes/Design Strategies/Decrease & Conquer]]
 #### Top-down Recursive Solution
 ```python
 def fact(n):

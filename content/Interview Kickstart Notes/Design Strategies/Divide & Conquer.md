@@ -14,7 +14,7 @@
 - Merge Sort
 - QuickSort
 
-See examples of [[content/InterviewKickstartNotes/Sorting Foundations/Sorting Algorithms/Merge Sort]] and [[content/InterviewKickstartNotes/Sorting Foundations/Sorting Algorithms/QuickSort]].
+See examples of [[content/Interview Kickstart Notes/Sorting Foundations/Sorting Algorithms/Merge Sort]] and [[content/Interview Kickstart Notes/Sorting Foundations/Sorting Algorithms/QuickSort]].
 
 --- 
 

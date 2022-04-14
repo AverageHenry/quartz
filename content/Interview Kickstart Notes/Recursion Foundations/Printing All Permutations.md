@@ -24,7 +24,7 @@ Space: O (n)
 
 ### Printing Permutations Without Repetitions
 ##### Example: Given a set (or string) of n distinct characters, print all permutations (of size n, no repetitions allowed)
-![[content/InterviewKickstartNotes/Recursion Foundations/Images/permutations_no_duplicates.png]]
+![[content/Interview Kickstart Notes/Recursion Foundations/Images/permutations_no_duplicates.png]]
 Time: O (n! x n) --> Since repetition is not allowed in our input, the number of possibilities is n!, since n x n-1 x n-2 x ... 1 == n!. We know that we will have n! leaf nodes, and each leaf node is doing n work (printing the slate of length n), so the total work being done is n! x n.
 
 Space: O (n) --> This is recursive DFS. We only use the call stack, and we know our call stack cannot contain more than n function calls for this algorithm.

@@ -19,4 +19,4 @@ Where **k** is the # of keys in the hash table and **n** is the input size.
 ---
 
 What if we're dealing with objects where stability matters? (Student objects, for example):
-![[content/InterviewKickstartNotes/Sorting Foundations/Pasted image 20211114233536.png]]
+![[content/Interview Kickstart Notes/Sorting Foundations/Pasted image 20211114233536.png]]
